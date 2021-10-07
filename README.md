@@ -82,7 +82,7 @@ the user is responsible.
 .mp4 version available on local file
 -->
 
-  <h1>🇱🇰𝐓𝐞𝐜𝐡 𝐰𝐨𝐫𝐥𝐝ᵒᶠᶠⁱᶜⁱᵃˡ</h1>
+  <h1>🇱🇰𝐓𝐞𝐜𝐡 𝐰𝐨𝐫𝐥𝐝ᵒᶠᶠⁱᶜⁱᵃˡ 𝐁𝐨𝐭</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
@@ -108,7 +108,7 @@ the user is responsible.
 
 > [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
-## 🔎 What is WhatsAsena?
+## 🔎 What is 🇱🇰𝐓𝐞𝐜𝐡 𝐰𝐨𝐫𝐥𝐝ᵒᶠᶠⁱᶜⁱᵃˡ 𝐁𝐨𝐭?
 **WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
 
 ## ❓ Duplicated?
@@ -159,7 +159,7 @@ If you are concerned about security, you can install it on your own computer. If
 Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
 
 ### 🛡️ Cyber Attack Protection?
-Only original [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
+Only original [🇱🇰𝐓𝐞𝐜𝐡 𝐰𝐨𝐫𝐥𝐝ᵒᶠᶠⁱᶜⁱᵃˡ 𝐛𝐨𝐭](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
 
 ### 🧠 What is Eva Neural AI?
 **Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
