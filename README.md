@@ -82,7 +82,7 @@ the user is responsible.
 .mp4 version available on local file
 -->
 
-  <h1>🐺 WhatsAsena</h1>
+  <h1>🇱🇰𝐓𝐞𝐜𝐡 𝐰𝐨𝐫𝐥𝐝ᵒᶠᶠⁱᶜⁱᵃˡ</h1>
 </div>
 <p align="center">
     WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
