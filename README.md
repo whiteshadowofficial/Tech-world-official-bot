@@ -76,7 +76,7 @@ the user is responsible.
 
 <div align="center">
 
-  ![WhatsAsena Logo](https://media0.giphy.com/media/WzWhxbIKpCCCYfTS3a/giphy.gif?cid=6c09b952ca458f6d0fdd2de872ae4335ca70b7c23958106f&rid=giphy.gif)
+  ![WhatsAsena Logo](https://telegra.ph/file/67b609cfc77a0ad455a78.jpg)
 
 <!---
 .mp4 version available on local file
